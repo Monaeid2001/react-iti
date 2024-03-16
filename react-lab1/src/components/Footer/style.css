@@ -1,0 +1,19 @@
+.footer {
+    background-color: #f8f9fa; /* Example background color */
+    padding: 20px 0; /* Adjust padding to increase footer height */
+    text-align: center; /* Center-align content */
+  }
+  
+  .footer-content {
+    max-width: 1200px; /* Limit content width */
+    margin: 0 auto; /* Center content horizontally */
+  }
+  
+  .social-icons {
+    margin-bottom: 20px; /* Add margin between social icons and footer text */
+  }
+  
+  .footer-text {
+    color: #6c757d; /* Example text color */
+  }
+  

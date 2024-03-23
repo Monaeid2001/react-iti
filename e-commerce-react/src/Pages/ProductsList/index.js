@@ -18,7 +18,7 @@ export default function ProductsList() {
   console.log(productsList);
   return (
     <div className="container">
-      <h2 className="text-center">Products list</h2>
+      <h2>Products list</h2>
       <hr />
       {loading ? (
         <Loader />
